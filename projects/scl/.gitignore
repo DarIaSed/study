@@ -2,7 +2,5 @@
 # https://www.atlassian.com/ru/git/tutorials/saving-changes/gitignore#git-ignore-patterns
 #
 
-build_*/
-lib/
+build/
 Testing/
-projects/scl/stc/long_number/long_number.0.cpp
