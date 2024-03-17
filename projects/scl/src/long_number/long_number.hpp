@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-namespace NPushkarev {
+namespace DSedegova {
 	class LongNumber {
 		static const char END = '\0';
 		static const char MINUS = '-';
